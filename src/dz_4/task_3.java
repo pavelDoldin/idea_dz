@@ -17,7 +17,7 @@ public class task_3 {
         }
         System.out.println(list);
         System.out.println(sum);
-
+//
 
     }
 }
